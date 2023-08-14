@@ -1,6 +1,7 @@
 # Insurance insights - Comparative study of Countries
 
 Created a dashboard for my Course end project to compare all the parameters mentioned for different countries, to strategize market penetration and to target new customers.
+
 Used data blending to connect both the given datasets.
 **Steps to Perform**
 Create a geographic map showing the countries' fields. Color the map based on the income column from the secondary dataset
